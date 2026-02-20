@@ -1,0 +1,38 @@
+{
+  "projectName": "Armario sin título",
+  "imageUrl": "https://raw.githubusercontent.com/EnriqueCanoves/CTLR_panelV3/main/armarios/armario_1771590531117.jpg",
+  "hotspots": [
+    {
+      "id": 1,
+      "x": 77.21,
+      "y": 14.81,
+      "tipo": "ctrl",
+      "tipoLabel": "CONTROL",
+      "name": "-U1 - Fuente alimentación",
+      "marca": "—",
+      "modelo": "—",
+      "funcion": "—",
+      "uso": "—",
+      "reset": "—",
+      "aviso": null,
+      "params": [
+        {
+          "k": "Tensión",
+          "v": "—"
+        },
+        {
+          "k": "Corriente",
+          "v": "—"
+        },
+        {
+          "k": "Potencia",
+          "v": "—"
+        },
+        {
+          "k": "Norma",
+          "v": "—"
+        }
+      ]
+    }
+  ]
+}
